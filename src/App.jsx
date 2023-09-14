@@ -1,6 +1,6 @@
 import React from "react";
-import AdviceCard from "./AdviceCard";
-import "./app.css";
+import AdviceCard from "./AdviceCard.jsx";
+import "./App.css";
 
 function App() {
   return (
